@@ -11,13 +11,6 @@
     "type": "git",
     "url": "https://github.com/rodgon81/SmartMeter238.git"
   },
-  "dependencies": [
-    {
-      "name": "RemoteDebug",
-      "version": "3.0.5",
-      "authors": "Joao Lopes"
-    }
-  ],
   "version": "1.0.0-beta1",
   "frameworks": [
     "arduino"
